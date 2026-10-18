@@ -178,7 +178,7 @@ def predict_batch(input_path, output_path="outputs/predictions/predictions.csv",
 
 
 def predict_performance(
-    input_path="data/employee_data_cleaned.csv",
+    input_path="data/employee_data.csv",
     output_path="outputs/predictions/predictions.csv"
 ):
     """
