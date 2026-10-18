@@ -1,5 +1,3 @@
-# Step 13 - Screenshots / Outputs
-
 ## Overview
 
 This guide tells you exactly what to capture at each stage of the project, what graphs to generate, and what proof to save for your GitHub README and placement interviews.

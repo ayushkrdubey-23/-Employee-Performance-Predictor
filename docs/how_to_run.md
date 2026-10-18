@@ -1,5 +1,3 @@
-# Step 9 - How to Run Project
-
 ## Overview
 
 This guide explains how to run the Employee Performance Predictor project end-to-end, what commands to use, what output to expect, and the expected results.

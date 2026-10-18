@@ -1,4 +1,4 @@
-# Step 3 - Project Architecture
+
 
 ## Architecture Overview
 

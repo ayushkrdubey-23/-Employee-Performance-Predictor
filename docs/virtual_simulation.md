@@ -1,5 +1,3 @@
-# Step 8 - Virtual Simulation
-
 ## Overview
 
 Since you don't have access to real company HR data, this project uses **virtual simulation** to create a realistic company environment. The simulation mimics how employee data is generated, how performance scores are calculated, how the AI predicts performance, and how HR would use the system.

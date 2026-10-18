@@ -1,5 +1,3 @@
-# Step 12 - Proof Building Strategy
-
 ## Overview
 
 For placements and internships, recruiters want to see **consistent, documented progress** — not just a final dump of code. This strategy shows what to upload each day over 5 days, with commit messages and proof screenshots, so your GitHub commit history tells a story of real work.

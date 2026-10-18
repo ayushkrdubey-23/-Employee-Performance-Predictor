@@ -1,5 +1,3 @@
-# Step 14 - Interview Preparation
-
 ## Overview
 
 This guide gives you 10 interview questions with strong answers, plus how to explain your project to HR (non-technical) and technical interviewers. Use this for placement and internship interviews.

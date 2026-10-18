@@ -103,6 +103,8 @@ pip install -r requirements.txt
 | seaborn | >=0.12.0 | Statistical visualization |
 | joblib | >=1.2.0 | Model serialization (.pkl) |
 | jupyter | >=1.0.0 | Notebooks for EDA |
+| streamlit | >=1.28.0 | Interactive dashboard |
+| plotly | >=5.17.0 | Interactive charts |
 
 ### Verify installation
 ```powershell
@@ -147,6 +149,12 @@ python main.py
 
 This executes all phases: data generation → preprocessing → training → evaluation → prediction.
 
+To run the Streamlit dashboard:
+
+```powershell
+streamlit run streamlit_app.py
+```
+
 ---
 
 ## 8. Deactivating the Virtual Environment
@@ -185,6 +193,7 @@ python -m venv venv
 venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 python main.py
+streamlit run streamlit_app.py
 deactivate
 ```
 
@@ -194,5 +203,6 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python main.py
+streamlit run streamlit_app.py
 deactivate
 ```

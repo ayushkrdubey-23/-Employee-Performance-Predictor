@@ -1,5 +1,3 @@
-# Step 5 - Folder Structure
-
 ## Professional GitHub-Ready Folder Structure
 
 ```

@@ -1,5 +1,3 @@
-# Step 4 - Implementation Plan (Phase-Wise)
-
 ## Phase 1: Setup
 
 **What to do:**

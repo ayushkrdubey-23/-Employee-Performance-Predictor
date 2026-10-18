@@ -1,5 +1,3 @@
-# Step 2 - Tech Stack Options
-
 ## Option A (Easy) - Beginner Friendly
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook

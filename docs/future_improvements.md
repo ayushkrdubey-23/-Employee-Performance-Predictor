@@ -1,5 +1,3 @@
-# Step 15 - Future Improvements
-
 ## Overview
 
 This guide suggests upgrades to take the Employee Performance Predictor from a student project to a production-ready system. Each improvement includes what to build, why it matters, and how to implement it.

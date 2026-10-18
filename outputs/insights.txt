@@ -1,0 +1,53 @@
+============================================================
+EMPLOYEE PERFORMANCE PREDICTOR - HR INSIGHTS REPORT
+============================================================
+
+1. TOP PERFORMANCE DRIVERS (Feature Importance)
+------------------------------------------------------------
+   engagement_score: 0.1437
+   experience_years: 0.1019
+   age: 0.0877
+   projects_per_year: 0.0856
+   training_per_year: 0.0848
+   salary: 0.0771
+   training_hours: 0.0759
+   workload_score: 0.0596
+
+2. PREDICTION DISTRIBUTION
+------------------------------------------------------------
+   High: 317 employees (31.7%)
+   Low: 43 employees (4.3%)
+   Medium: 640 employees (64.0%)
+
+3. AT-RISK EMPLOYEES (Predicted Low Performance)
+------------------------------------------------------------
+   Total at-risk employees: 43
+   Employee N/A: predicted=Low
+   Employee N/A: predicted=Low
+   Employee N/A: predicted=Low
+   Employee N/A: predicted=Low
+   Employee N/A: predicted=Low
+
+4. HR ACTION RECOMMENDATIONS
+------------------------------------------------------------
+   High Performers (317 employees):
+      - Consider for promotion or leadership roles.
+      - Include in retention and recognition programs.
+      - Assign as mentors to medium/low performers.
+      - Offer stretch assignments to maintain engagement.
+
+   Low Performers (43 employees):
+      - Immediate coaching and performance improvement plan.
+      - Investigate root causes (workload, skills, attendance).
+      - Provide additional training and support.
+      - Re-evaluate role fit or consider reassignment.
+
+   Medium Performers (640 employees):
+      - Provide targeted training to close skill gaps.
+      - Set clear performance goals with manager check-ins.
+      - Offer upskilling opportunities in weak areas.
+      - Monitor progress quarterly.
+
+============================================================
+END OF INSIGHTS REPORT
+============================================================

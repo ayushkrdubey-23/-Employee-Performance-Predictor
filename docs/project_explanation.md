@@ -1,5 +1,3 @@
-# Step 1 - Project Explanation
-
 ## What is Employee Performance Prediction?
 
 Employee Performance Prediction is a data-driven HR analytics system that uses machine learning to forecast an employee's upcoming performance rating (High / Medium / Low) based on historical and current employee data. It analyzes factors such as age, experience, department, salary, training hours, attendance, projects completed, manager feedback, and workload to predict how an employee is likely to perform in the next appraisal cycle.

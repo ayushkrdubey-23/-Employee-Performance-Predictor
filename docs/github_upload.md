@@ -1,5 +1,3 @@
-# Step 10 - GitHub Upload Steps
-
 ## Overview
 
 Uploading your project to GitHub gives you public proof of work for placements, internships, and recruiters. This guide covers repo creation, connecting your local folder, pushing code, commit messages, uploading screenshots, and repo metadata.
